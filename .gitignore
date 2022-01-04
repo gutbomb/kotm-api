@@ -1,0 +1,11 @@
+node_modules/
+daemon/
+.git/
+.idea/
+public/
+.htaccess
+tmp/
+**/.DS_Store
+npm-debug.log
+appConfig.js
+package-lock.json
