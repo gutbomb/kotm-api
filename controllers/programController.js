@@ -321,7 +321,7 @@ exports.update_program = function(req, res) {
                                                 console.error(err);
                                                 reject();
                                             } else {
-                                                if (locationCounter === req.body.questions.length) {
+                                                if (locationCounter === req.body.locations.length) {
                                                     resolve();
                                                 }
                                             }
