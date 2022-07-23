@@ -6,4 +6,4 @@ import the sql files in the data folder to the database server
 
 run the following commands to set up an environment  
 `npm install`  
-`npm run start`
+`npm run dev` (or `npm run start` in production)
